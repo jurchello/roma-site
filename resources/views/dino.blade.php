@@ -22,7 +22,7 @@
 
 
 
-        @foreach ([1,28,33,58,78,87,93] as $id)
+        @foreach ([1,28,33,58,78,87] as $id)
             @include("dino-card", ["dinoName" => "Паразауролоф"])
         @endforeach
         @foreach ([2,6,9,10,15,18,20,38,52,59,79,88,94,99,101] as $id)
@@ -68,60 +68,21 @@
         @foreach ([8,21,24,71] as $id)
             @include("dino-card", ["dinoName" => "Диплодок"])
         @endforeach
-
+        @foreach ([11,16,34,45,55,105,93] as $id)
+            @include("dino-card", ["dinoName" => "Пахіцефалозавр"])
+        @endforeach
+        @foreach ([13,17,19,62,66,83,92.] as $id)
+            @include("dino-card", ["dinoName" => "Стегозавр"])
+        @endforeach
+        @foreach ([22,29,35,40,84,85,95,97,98,107,112.] as $id)
+            @include("dino-card", ["dinoName" => "Велоцераптор"])
+        @endforeach
 
 
 
 
  
 
-         <div class="card">
-            <div class="card-body">
-               <img src="img/11.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Пахіцефалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/13.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/16.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Пахіцефалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/17.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/19.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/22.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
          </div>
          <div class="card">
             <div class="card-body">
@@ -129,14 +90,6 @@
             </div>
             <div class="card-footer">
                <p class="card-text">Ящір</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/29.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
             </div>
          </div>
          <div class="card">
@@ -157,19 +110,8 @@
          </div>
          <div class="card">
             <div class="card-body">
-               <img src="img/34.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Пахіцефалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/35.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
+               <img src="img/34.jpg" class="card-img-top"> 
+>
          </div>
          <div class="card">
             <div class="card-body">
@@ -186,14 +128,7 @@
             <div class="card-footer">
                <p class="card-text">Гуаньлунь</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/40.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
+
          </div>
          <div class="card">
             <div class="card-body">
@@ -210,14 +145,6 @@
             </div>
             <div class="card-footer">
                <p class="card-text">Ящір</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/45.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Пахіцефалозавр</p>
             </div>
          </div>
          <div class="card">
@@ -278,15 +205,6 @@
          </div>
          <div class="card">
             <div class="card-body">
-               <img src="img/55.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Пахіцефалозавр</p>
-            </div>
-         </div>
-
-         <div class="card">
-            <div class="card-body">
                <img src="img/57.jpg" class="card-img-top">
             </div>
             <div class="card-footer">
@@ -299,14 +217,7 @@
             </div>
             <div class="card-footer">
                <p class="card-text">Мегалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/62.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
+               </div>
             </div>
          </div>
          <div class="card">
@@ -323,14 +234,6 @@
             </div>
             <div class="card-footer">
                <p class="card-text">Ящір</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/66.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
             </div>
          </div>
          <div class="card">
@@ -431,29 +334,8 @@
                <p class="card-text">Брахіозавр</p>
             </div>
          </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/83.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/84.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/85.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
+
+ 
          </div>
          <div class="card">
             <div class="card-body">
@@ -489,44 +371,13 @@
          </div>
          <div class="card">
             <div class="card-body">
-               <img src="img/92.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стегозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/95.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
                <img src="img/96.jpg" class="card-img-top">
             </div>
             <div class="card-footer">
                <p class="card-text">Теринозавр</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/97.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/98.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
-         </div>
+
+
          <div class="card">
             <div class="card-body">
                <img src="img/100.jpg" class="card-img-top">
@@ -553,27 +404,12 @@
          </div>
          <div class="card">
             <div class="card-body">
-               <img src="img/105.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Пахіцефалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
                <img src="img/106.jpg" class="card-img-top">
             </div>
             <div class="card-footer">
                <p class="card-text">Дилофозавр</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/107.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
+
          </div>
          <div class="card">
             <div class="card-body">
@@ -606,14 +442,7 @@
             <div class="card-footer">
                <p class="card-text">Теринозавр</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/112.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Велоцераптор</p>
-            </div>
+
          </div>
       </div>
       <div class="row">

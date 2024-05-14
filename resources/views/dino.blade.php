@@ -71,219 +71,32 @@
         @foreach ([11,16,34,45,55,105,93] as $id)
             @include("dino-card", ["dinoName" => "Пахіцефалозавр"])
         @endforeach
-        @foreach ([13,17,19,62,66,83,92.] as $id)
+        @foreach ([13,17,19,62,66,83,92] as $id)
             @include("dino-card", ["dinoName" => "Стегозавр"])
         @endforeach
-        @foreach ([22,29,35,40,84,85,95,97,98,107,112.] as $id)
+        @foreach ([22,29,35,40,84,85,95,97,98,107,112] as $id)
             @include("dino-card", ["dinoName" => "Велоцераптор"])
         @endforeach
 
 
 
 
- 
 
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/27.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Ящір</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/30.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Мегалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/32.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Катцелькоатль</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/34.jpg" class="card-img-top"> 
->
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/36.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/37.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Гуаньлунь</p>
-            </div>
 
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/42.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
 
-         <div class="card">
-            <div class="card-body">
-               <img src="img/44.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Ящір</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/46.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/47.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/49.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр (браслет)</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/50.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Скелети динозаврів</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/51.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/53.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Брахіозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/54.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Качкодзьоб</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/57.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/61.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Мегалозавр</p>
-               </div>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/63.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Ютараптор</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/65.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Ящір</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/67.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Ютараптор</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/68.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр (картонний виріб)</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/69.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/70.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Юрський період</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/72.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Стиракозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/73.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
+        @foreach ([27,44,65] as $id)
+            @include("dino-card", ["dinoName" => "Ящір"])
+        @endforeach
+        @foreach ([30,61,102] as $id)
+            @include("dino-card", ["dinoName" => "Мегалозавр"])
+        @endforeach
+        @foreach ([32] as $id)
+            @include("dino-card", ["dinoName" => "Катцелькоатль"])
+        @endforeach
+        @foreach ([36,42,46,47,49,51,57,68,69,73,80,96,104,108,110,111] as $id)
+            @include("dino-card", ["dinoName" => "Теринозавр"])
+        @endforeach
+        </div>
          <div class="card">
             <div class="card-body">
                <div id="carouselExampleAutoplaying1" class="carousel slide ride" data-bs-ride="carousel">
@@ -308,15 +121,89 @@
             <div class="card-footer">
                <p class="card-text">Теринозавр</p>
             </div>
-         </div>
 
+
+         
+         
+         </div>
          <div class="card">
             <div class="card-body">
-               <img src="img/80.jpg" class="card-img-top">
+               <img src="img/37.jpg" class="card-img-top">
             </div>
             <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
+               <p class="card-text">Гуаньлунь</p>
             </div>
+
+
+        
+
+
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/50.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Скелети динозаврів</p>
+            </div>
+
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/53.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Брахіозавр</p>
+            </div>
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/54.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Качкодзьоб</p>
+            </div>
+
+
+            </div>
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/63.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Ютараптор</p>
+            </div>
+ 
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/67.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Ютараптор</p>
+            </div>
+ 
+
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/70.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Юрський період</p>
+            </div>
+         </div>
+         <div class="card">
+            <div class="card-body">
+               <img src="img/72.jpg" class="card-img-top">
+            </div>
+            <div class="card-footer">
+               <p class="card-text">Стиракозавр</p>
+            </div>
+ 
+ 
+  
          </div>
          <div class="card">
             <div class="card-body">
@@ -368,14 +255,7 @@
             <div class="card-footer">
                <p class="card-text">Баріонікс</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/96.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
+
 
 
          <div class="card">
@@ -385,22 +265,8 @@
             <div class="card-footer">
                <p class="card-text">Баріонікс</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/102.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Мегалозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/104.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
+
+
          </div>
          <div class="card">
             <div class="card-body">
@@ -413,35 +279,13 @@
          </div>
          <div class="card">
             <div class="card-body">
-               <img src="img/108.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
                <img src="img/109.jpg" class="card-img-top">
             </div>
             <div class="card-footer">
                <p class="card-text">Скелет динозавра</p>
             </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/110.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
-         </div>
-         <div class="card">
-            <div class="card-body">
-               <img src="img/111.jpg" class="card-img-top">
-            </div>
-            <div class="card-footer">
-               <p class="card-text">Теринозавр</p>
-            </div>
+
+
 
          </div>
       </div>

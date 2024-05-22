@@ -176,3 +176,17 @@ body {
   .carousel-inner > .item > a > img {
     width: 70%;
     margin: auto;
+  }
+
+ .row-long-1, .row-long-2 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+ }
+
+ .row-long-1 {
+  background-color: rgb(157, 230, 235);
+ }
+
+ .row-long-2 {
+  background-color: rgb(222, 224, 178);
+ }

@@ -16,3 +16,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/dino', function () {
     return view('dino');
 });
+
+Route::get('/pictures', function () {
+    return view('pictures');
+});
+
+Route::get('/', function () {
+    return view('index');
+});
+
+Route::get('/scratch', function () {
+    return view('scratch');
+});

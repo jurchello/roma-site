@@ -146,36 +146,6 @@
                @include("dino-card", ["dinoName" => "Скелет динозавра"])
          @endforeach
    </div>
-      <div class="row">
-         <h2>Моя книга</h2>
-         <div class="book-section">
-            <div class="container">
-               <div class="right">
-                  <figure class="back" id="back-cover"></figure>
-                  <figure class="front" style="background-image: url('img/book/061.jpg');"></figure>
-               </div>
-               ...........
-               <div class="right">
-                  <figure class="back" style="background-image: url(img/book/008.jpg);"></figure>
-                  <figure class="front" style="background-image: url('img/book/007.jpg');"></figure>
-               </div>
-               <div class="right">
-                  <figure class="back" style="background-image: url(img/book/006.jpg);"></figure>
-                  <figure class="front" style="background-image: url('img/book/005.jpg');"></figure>
-               </div>
-               <div class="right">
-                  <figure class="back" style="background-image: url(img/book/004.jpg);"></figure>
-                  <figure class="front" style="background-image: url('img/book/003.jpg');"></figure>
-               </div>
-               <div class="right"><figure class="back" style="background-image: url('img/book/002.jpg');"></figure>
-                  <figure class="front" id="cover" style="background-image: url('img/book/001.jpg');"></figure>
-               </div>
-            </div>
-            <button onclick="turnLeft()">Prev</button>
-            <button onclick="turnRight()">Next</button>
-            <br />
-         </div>
-      </div>
 
       <div class="row">
          <h2>Моя книга</h2>

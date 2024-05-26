@@ -17,50 +17,51 @@
    <body>
       <div class="container">
          <div class="row row-long-2">
-         <div class="col">
-            <video width="485" height="365" controls>
-               <source src="video/1.mov" type="video/mp4">
-               Your browser does not support the video tag.
-            </video>
+            <div class="col">
+               <video width="485" height="365" controls>
+                  <source src="video/1.mov" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+            <div class="col">
+               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+            </div>
          </div>
-         <div class="col">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+         <div class="row row-long-1">
+            <div class="col">
+               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+            </div>
+            <div class="col">
+               <video width="485" height="365" controls>
+                  <source src="video/2.mov" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+         </div>
+         <div class="row row-long-2">
+            <div class="col">
+               <video width="485" height="365" controls>
+                  <source src="video/3.mov" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+            <div class="col">
+               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+            </div>
+         </div>
+         <div class="row row-long-1">
+            <div class="col">
+               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+            </div>
+            <div class="col">
+               <video width="485" height="365" controls>
+                  <source src="video/4.mov" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
          </div>
       </div>
-      <div class="row row-long-1">
-         <div class="col">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
-         </div>
-         <div class="col">
-            <video width="485" height="365" controls>
-               <source src="video/2.mov" type="video/mp4">
-               Your browser does not support the video tag.
-            </video>
-         </div>
-      </div>
-      <div class="row row-long-2">
-         <div class="col">
-            <video width="485" height="365" controls>
-               <source src="video/3.mov" type="video/mp4">
-               Your browser does not support the video tag.
-            </video>
-         </div>
-         <div class="col">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
-         </div>
-      </div>
-      <div class="row row-long-1">
-         <div class="col">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
-         </div>
-         <div class="col">
-            <video width="485" height="365" controls>
-               <source src="video/4.mov" type="video/mp4">
-               Your browser does not support the video tag.
-            </video>
-         </div>
-      </div>
-   </div>
+      @include('footer')
    </body>
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
    <script src="js/script.js"></script>

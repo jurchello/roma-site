@@ -15,6 +15,7 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
    </head>
    <body>
+      @include("navbar")
       <div class="container">
       <div class="row">
          <h1>Мої динозаври</h1>

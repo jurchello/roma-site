@@ -15,6 +15,7 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
    </head>
    <body>
+      @include("navbar")
       <div class="container">
          <div class="row row-long-2">
             <div class="col">
@@ -24,12 +25,12 @@
                </video>
             </div>
             <div class="col">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+               ца програма для вивчення англіською мовою та вивчити тварин.
             </div>
          </div>
          <div class="row row-long-1">
             <div class="col">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+               в цієї програми гра в ній треба пригати по камнам щоб дойти до дверей.
             </div>
             <div class="col">
                <video width="485" height="365" controls>
@@ -46,12 +47,12 @@
                </video>
             </div>
             <div class="col">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+               ца гра зомбі тут ти як в справжній грі та в ній можна робити справжні дива.
             </div>
          </div>
          <div class="row row-long-1">
             <div class="col">
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet blandit augue. Proin id rhoncus eros. Quisque orci erat, pretium at congue at, ultrices vitae leo. Donec sed dictum lorem, pharetra fringilla odio. Aliquam ac risus neque. Duis eu tortor est. Nunc gravida, justo quis pharetra ultrices, ante sapien vulputate augue, et semper dui arcu vel elit. Maecenas ut varius turpis. Vestibulum ut sagittis dolor. Praesent quis lacus hendrerit, semper enim finibus, lobortis metus. Ut euismod ipsum id odio malesuada aliquet. Nulla semper purus justo, vel blandit eros pulvinar eu.
+               ца гра самальот треба щоб його не збили супротивники.
             </div>
             <div class="col">
                <video width="485" height="365" controls>

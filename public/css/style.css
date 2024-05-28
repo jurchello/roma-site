@@ -196,4 +196,18 @@ body {
   height: 20%;
   width: 20%;
 }
+
+.video-container {
+  float: left; /* Встановлюємо обтікання для відео */
+  margin-right: 20px; /* Відступ справа від відео */
+  margin-bottom: 20px; /* Відступ знизу, щоб текст не прилипав занадто близько */
+}
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
  
+.clearfix > p {
+  font-size: 30px;
+}

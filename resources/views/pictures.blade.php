@@ -17,7 +17,7 @@
    <body>
       @include("navbar")
       <div class="container">
-      pictures
+      <span class="badge rounded-pill text-bg-info">Info</span>
       </div>
       @include('footer')
    </body>

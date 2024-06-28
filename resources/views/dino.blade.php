@@ -148,7 +148,7 @@
          @endforeach
    </div>
 
-      <div class="row">
+      <div class="row mt-5">
          <h2>Моя книга</h2>
          <div class="book-section">
             <div class="container">
@@ -181,8 +181,8 @@
             <button onclick="turnLeft()">Prev</button>
             <button onclick="turnRight()">Next</button>
             <br />
-            </div>
          </div>
+      </div>
       </div>
       @include('footer')
    </body>

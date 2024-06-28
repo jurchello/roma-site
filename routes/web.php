@@ -28,3 +28,7 @@ Route::get('/', function () {
 Route::get('/scratch', function () {
     return view('scratch');
 });
+
+Route::get('/my-dog', function () {
+    return view('dog');
+});

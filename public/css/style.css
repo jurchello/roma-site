@@ -40,7 +40,6 @@ img {
 
 body {
   margin: 0;
-  background-color: #ffecc6;
 }
 * {
   box-sizing: border-box;
@@ -157,7 +156,7 @@ body {
 
 
 .book-section > .container {
-    height: 600px;
+    height: 715px;
     width: 1000px;
 }
 
@@ -179,16 +178,8 @@ body {
   }
 
  .row-long-1, .row-long-2 {
-  padding-top: 50px;
-  padding-bottom: 50px;
- }
-
- .row-long-1 {
-  background-color: rgb(157, 230, 235);
- }
-
- .row-long-2 {
-  background-color: rgb(222, 224, 178);
+  padding-top: 20px;
+  padding-bottom: 20px;
  }
 
  img.logo {
@@ -209,5 +200,45 @@ body {
 }
  
 .clearfix > p {
-  font-size: 30px;
+  font-size: 24px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light, footer.bg-body-tertiary.text-center.text-lg-start {
+  background-color: #83e4bd !important;
+  background-color: #fa8e00 !important;
+}
+
+a.text-body, .text-center.p-3, a.nav-link {
+  color: #6f5104 !important;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.row-long-1 {
+  background-color: #D3D3D3;
+ }
+
+ .row-long-2 {
+  background-color: #FFFFFF;
+ }
+
+ h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 30px !important; /* Відступ зверху */
+  margin-bottom: 30px; /* Відступ знизу */
+}
+
+h2 {
+  text-transform: uppercase;
+  text-align: left;
+  margin-top: 0 !important; /* Відступ зверху */
+  margin-bottom: 30px; /* Відступ знизу */
+}
+
+a:hover {
+  text-decoration: underline; /* Додає підкреслення при ховері */
+  color: #3f2e02 !important;
 }

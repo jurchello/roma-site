@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card-body">
-        <img src="{{ asset('img/' . $id . '.jpg') }}" class="card-img-top">
+        <img src="{{ asset('img/dino/' . $id . '.jpg') }}" class="card-img-top">
     </div>
     <div class="card-footer">
         <p class="card-text">{{$dinoName}}</p>

@@ -17,50 +17,54 @@
    <body>
       @include("navbar")
       <div class="container">
-         <div class="row row-long-2">
-            <div class="col">
-               <video width="485" height="365" controls>
-                  <source src="video/1.mov" type="video/mp4">
-                  Your browser does not support the video tag.
-               </video>
-            </div>
-            <div class="col">
-               ца програма для вивчення англіською мовою та вивчити тварин.
-            </div>
-         </div>
-         <div class="row row-long-1">
-            <div class="col">
-               в цієї програми гра в ній треба пригати по камнам щоб дойти до дверей.
-            </div>
-            <div class="col">
-               <video width="485" height="365" controls>
-                  <source src="video/2.mov" type="video/mp4">
-                  Your browser does not support the video tag.
-               </video>
-            </div>
+      <div class="row">
+            <h1>мої програми на scratch</h1>
          </div>
          <div class="row row-long-2">
             <div class="col">
                <video width="485" height="365" controls>
-                  <source src="video/3.mov" type="video/mp4">
+                  <source src="video/1.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                </video>
             </div>
             <div class="col">
-               ца гра зомбі тут ти як в справжній грі та в ній можна робити справжні дива.
+               Ця програма допомагає вивчати тварин англіською мовою.
             </div>
          </div>
          <div class="row row-long-1">
             <div class="col">
-               ца гра самальот треба щоб його не збили супротивники.
+               Треба стрибати по каменях щоб дійти до дверей.
             </div>
             <div class="col">
                <video width="485" height="365" controls>
-                  <source src="video/4.mov" type="video/mp4">
+                  <source src="video/2.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                </video>
             </div>
          </div>
+         <div class="row row-long-2">
+            <div class="col">
+               <video width="485" height="365" controls>
+                  <source src="video/3.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+            <div class="col">
+               Це гра про зомбі. Тут можна робити справжні дива.
+            </div>
+         </div>
+         <div class="row row-long-1">
+            <div class="col">
+               Гра-стрілялка. Ти керуєш літаком, знищуєш противників.
+            </div>
+            <div class="col">
+               <video width="485" height="365" controls>
+                  <source src="video/4.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+         </div>
+         <p class="mt-2">Решту моїх програм дивися за посиланням <a href="https://scratch.mit.edu/mystuff/">Мої програми</a></p>
       </div>
       @include('footer')
    </body>

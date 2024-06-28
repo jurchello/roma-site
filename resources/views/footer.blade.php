@@ -32,14 +32,7 @@
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                <ul class="list-unstyled">
                   <li>
-                     <a href="#" class="text-body">My Dog</a>
-                  </li>
-               </ul>
-               </div>
-               <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-               <ul class="list-unstyled">
-                  <li>
-                     <a href="#" class="text-body">Other</a>
+                     <a href="/my-dog" class="text-body">My Dog</a>
                   </li>
                </ul>
                </div>

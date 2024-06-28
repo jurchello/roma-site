@@ -16,11 +16,26 @@
    </head>
    <body>
       @include("navbar")
-      <div class="container">
-      <span class="badge rounded-pill text-bg-info">Info</span>
+      <div class="row">
+            <h1>мої малюнки</h1>
+         </div>
+         <div class="row">
+            @foreach (range(1, 111) as $id)
+                  @include("picture-card", ["pictureName" => ""])
+            @endforeach
+         </div>
       </div>
       @include('footer')
    </body>
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+   <script>
+      img = document.getElementById("img1");
+      function enlargeImg() {
+      // Set image size to 1.5 times original
+      img.style.transform = "scale(2.5)";
+      // Animation effect
+      img.style.transition = "transform 0.25s ease";
+      }
+   </script>
    <script src="js/script.js"></script>
 </html>

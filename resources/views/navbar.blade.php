@@ -19,10 +19,7 @@
          <a href="/pictures" class="nav-link">My Pictures</a>
       </li>
       <li class="nav-item">
-         <a href="#" class="nav-link">My Dog</a>
-      </li>
-      <li class="nav-item">
-         <a href="#" class="nav-link">Other</a>
+         <a href="/my-dog" class="nav-link">My Dog</a>
       </li>
     </ul>
   </div>

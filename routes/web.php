@@ -21,7 +21,7 @@ Route::get('/laravel/pictures', function () {
     return view('pictures');
 });
 
-Route::get('/laravel', function () {
+Route::get('/', function () {
     return view('index');
 });
 

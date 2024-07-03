@@ -7,7 +7,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-         <a href="/laravel/" class="nav-link">About Me</a>
+         <a href="/" class="nav-link">About Me</a>
       </li>
       <li class="nav-item">
          <a href="/laravel/scratch" class="nav-link">Scratch</a>

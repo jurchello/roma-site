@@ -4,7 +4,7 @@
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                <ul class="list-unstyled mb-0">
                   <li>
-                     <a href="/" class="text-body">About Me</a>
+                     <a href="/laravel/public" class="text-body">About Me</a>
                   </li>
                </ul>
                </div>

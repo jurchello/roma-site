@@ -13,22 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/dino', function () {
+Route::get('/laravel/dino', function () {
     return view('dino');
 });
 
-Route::get('/pictures', function () {
+Route::get('/laravel/pictures', function () {
     return view('pictures');
 });
 
-Route::get('/', function () {
+Route::get('/laravel', function () {
     return view('index');
 });
 
-Route::get('/scratch', function () {
+Route::get('/laravel/scratch', function () {
     return view('scratch');
 });
 
-Route::get('/my-dog', function () {
+Route::get('/laravel/my-dog', function () {
     return view('dog');
 });

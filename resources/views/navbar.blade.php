@@ -7,19 +7,19 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-         <a href="/" class="nav-link">About Me</a>
+         <a href="/laravel/" class="nav-link">About Me</a>
       </li>
       <li class="nav-item">
-         <a href="/scratch" class="nav-link">Scratch</a>
+         <a href="/laravel/scratch" class="nav-link">Scratch</a>
       </li>
       <li class="nav-item">
-         <a href="/dino" class="nav-link">Dino</a>
+         <a href="/laravel/dino" class="nav-link">Dino</a>
       </li>
       <li class="nav-item">
-         <a href="/pictures" class="nav-link">My Pictures</a>
+         <a href="/laravel/pictures" class="nav-link">My Pictures</a>
       </li>
       <li class="nav-item">
-         <a href="/my-dog" class="nav-link">My Dog</a>
+         <a href="/laravel/my-dog" class="nav-link">My Dog</a>
       </li>
     </ul>
   </div>

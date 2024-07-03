@@ -11,28 +11,28 @@
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                <ul class="list-unstyled">
                   <li>
-                     <a href="/laravel/scratch" class="text-body">Scratch</a>
+                     <a href="/laravel/public/scratch" class="text-body">Scratch</a>
                   </li>
                </ul>
                </div>
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                <ul class="list-unstyled mb-0">
                   <li>
-                     <a href="/laravel/dino" class="text-body">Dino</a>
+                     <a href="/laravel/public/dino" class="text-body">Dino</a>
                   </li>
                </ul>
                </div>
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                <ul class="list-unstyled">
                   <li>
-                     <a href="/laravel/pictures" class="text-body">My Pictures</a>
+                     <a href="/laravel/public/pictures" class="text-body">My Pictures</a>
                   </li>
                </ul>
                </div>
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                <ul class="list-unstyled">
                   <li>
-                     <a href="/laravel/my-dog" class="text-body">My Dog</a>
+                     <a href="/laravel/public/my-dog" class="text-body">My Dog</a>
                   </li>
                </ul>
                </div>

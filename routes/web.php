@@ -13,11 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/laravel/dino', function () {
+Route::get('/laravel/public/dino', function () {
     return view('dino');
 });
 
-Route::get('/laravel/pictures', function () {
+Route::get('/laravel/public/pictures', function () {
     return view('pictures');
 });
 
@@ -25,10 +25,10 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/laravel/scratch', function () {
+Route::get('/laravel/public/scratch', function () {
     return view('scratch');
 });
 
-Route::get('/laravel/my-dog', function () {
+Route::get('/laravel/public/my-dog', function () {
     return view('dog');
 });

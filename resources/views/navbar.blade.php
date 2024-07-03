@@ -10,16 +10,16 @@
          <a href="/" class="nav-link">About Me</a>
       </li>
       <li class="nav-item">
-         <a href="/laravel/scratch" class="nav-link">Scratch</a>
+         <a href="/laravel/public/scratch" class="nav-link">Scratch</a>
       </li>
       <li class="nav-item">
-         <a href="/laravel/dino" class="nav-link">Dino</a>
+         <a href="/laravel/public/dino" class="nav-link">Dino</a>
       </li>
       <li class="nav-item">
-         <a href="/laravel/pictures" class="nav-link">My Pictures</a>
+         <a href="/laravel/public/pictures" class="nav-link">My Pictures</a>
       </li>
       <li class="nav-item">
-         <a href="/laravel/my-dog" class="nav-link">My Dog</a>
+         <a href="/laravel/public/my-dog" class="nav-link">My Dog</a>
       </li>
     </ul>
   </div>

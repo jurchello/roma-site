@@ -242,3 +242,11 @@ a:hover {
   text-decoration: underline; /* Додає підкреслення при ховері */
   color: #3f2e02 !important;
 }
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}

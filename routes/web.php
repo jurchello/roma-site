@@ -51,4 +51,4 @@ Route::get('/scratch', function () {
 
 Route::get('/my-dog', function () {
     return view('dog');
-});
+});;
